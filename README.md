@@ -43,4 +43,4 @@ This XR-based solution aims to revolutionize live troop training using advanced 
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/xr-live-training.git
+   git clone https://github.com/QuartVR/SIH1410.git
