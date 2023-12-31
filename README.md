@@ -118,9 +118,3 @@ Major technologies and frameworks used in this project:
 To set up the XR Training Project locally, follow these steps:
 
 ### Prerequisites
-
-Make sure you have the following installed:
-
-* npm
-  ```sh
-  npm install npm@latest -g
